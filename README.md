@@ -1,2 +1,2 @@
 # HelloGit
-this is first git
+this is my first resposibility for github!!!
